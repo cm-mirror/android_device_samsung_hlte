@@ -15,7 +15,7 @@
 #
 
 PRODUCT_PROPERTY_OVERRIDES := \
-    ro.ota.romname=temasek-hlte \
+    ro.ota.romname=trader418-hlte \
     ro.ota.version=$(shell date +%F | sed s@-@@g) \
     ro.ota.manifest=http://trader418.me/ota/cm14/hlte.xml
 
