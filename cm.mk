@@ -7,7 +7,7 @@ $(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 # Custom unofficial build tag
-TARGET_UNOFFICIAL_BUILD_ID := temasek
+TARGET_UNOFFICIAL_BUILD_ID := trader418
 
 PRODUCT_DEVICE := hlte
 PRODUCT_NAME := cm_hlte
